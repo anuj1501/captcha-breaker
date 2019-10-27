@@ -9,6 +9,6 @@ Also,the current version is unable to distinguish between O and 0 as well as I a
 
 **Developer Information**
 <p>Developed by
-  Anuj Raghani
-  Dyuwan Shukla
-  Owais Hetavkar
+  <li>Anuj Raghani</li>
+  <li>Dyuwan Shukla</li>
+  <li>Owais Hetavkar</li>
