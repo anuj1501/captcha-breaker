@@ -6,3 +6,9 @@ We have used convolutional neural networks and computer vision for recognizing a
 **Restricitions**
 <p>Currently,this preview build is able to functionally evaluate captchas with charachter sequences containing exactly 4 charachters.
 Also,the current version is unable to distinguish between O and 0 as well as I and 1 due to the similarity of features between these charachters.
+
+**Developer Information**
+<p>Developed by
+  Anuj Raghani
+  Dyuwan Shukla
+  Owais Hetavkar
